@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jeddah-home-artistry.lovable.app/sitemap.xml
+Sitemap: https://daralfan-jeddah.com/sitemap.xml
