@@ -6,7 +6,7 @@
     },
     {
       "source": "/(.*)",
-      "destination": "https://jeddah-home-artistry.lovable.app//$1"
+      "destination": "https://jeddah-home-artistry.lovable.app/$1"
     }
   ]
 }
