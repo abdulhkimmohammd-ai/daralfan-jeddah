@@ -1,4 +1,16 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://daralfan-jeddah.com/sitemap.xml
+{
+  "rewrites": [
+    {
+      "source": "/robots.txt",
+      "destination": "/robots.txt"
+    },
+    {
+      "source": "/sitemap.xml",
+      "destination": "/sitemap.xml"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://jeddah-home-artistry.lovable.app/$1"
+    }
+  ]
+}
