@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeddah-home-artistry.lovable.app/sitemap.xml
